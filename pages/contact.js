@@ -32,7 +32,7 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Ninja List | Contact</title>
+        <title>Contact</title>
         <meta name="keywords" content="ninjas" />
       </Head>
       <div className={"row " + styles.content}>

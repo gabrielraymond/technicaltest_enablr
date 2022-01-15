@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>Ninja List | About</title>
+        <title>About</title>
         <meta name="keywords" content="ninjas" />
       </Head>
       <div className={"row " + styles.content}>

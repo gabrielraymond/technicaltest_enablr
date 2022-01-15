@@ -7,7 +7,7 @@ const Visimisi = () => {
   return (
     <>
       <Head>
-        <title>Ninja List | Vision Mission</title>
+        <title>Vision Mission</title>
         <meta name="keywords" content="ninjas" />
       </Head>
       <div className={"row " + styles.content}>

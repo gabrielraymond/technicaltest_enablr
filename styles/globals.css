@@ -3,7 +3,19 @@ body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif,
+    Helvetica;
+  background-image: url("../public/Rectangle\ 5.png");
+  background-repeat: no-repeat;
+  background-size: 40%;
+  top: 0px;
+  color: #3E2E83;
+}
+
+@media screen and (max-width: 770px){
+  body{
+    background-size: 45%;
+  }
 }
 
 a {
